@@ -26,28 +26,34 @@ const Home = () => {
         <Card
           src='https://img.icons8.com/bubbles/100/000000/whatsapp.png'
           description='Whatsapp'
+          href=''
         />
         <Card
           src='https://img.icons8.com/bubbles/100/000000/instagram-new--v2.png'
           description='Instagram'
+          href=''
         />
         <Card
           src='https://img.icons8.com/bubbles/100/000000/facebook-new.png'
           description='Facebook'
+          href=''
         />
         <Card
           src='https://img.icons8.com/office/100/000000/twitter.png'
           description='Twitter'
+          href=''
           imgSize={40}
         />
         <Card
           src='https://img.icons8.com/dusk/100/000000/github.png'
           description='GitHub'
+          href=''
           imgSize={40}
         />
         <Card
           src='https://img.icons8.com/bubbles/100/000000/tiktok.png'
           description='TikTok'
+          href=''
         />
       </main>
     </>
@@ -55,4 +61,3 @@ const Home = () => {
 }
 
 export default Home
-// <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png"/>
