@@ -45,6 +45,11 @@ const Home = () => {
           imgSize={40}
         />
         <Card
+          src='https://img.icons8.com/bubbles/100/000000/youtube-play.png'
+          description='YouTube'
+          href='https://www.youtube.com/channel/UC1LaYyHrFD3juN8RGs0xwaQ'
+        />
+        <Card
           src='https://img.icons8.com/dusk/100/000000/github.png'
           description='GitHub'
           href=''
