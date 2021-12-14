@@ -60,6 +60,11 @@ const Home = () => {
           description='TikTok'
           href=''
         />
+        <Card
+          src='https://img.icons8.com/bubbles/100/000000/linkedin.png'
+          description='LinkedIn'
+          href=''
+        />
       </main>
     </>
   )
