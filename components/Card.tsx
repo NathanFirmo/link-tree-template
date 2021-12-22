@@ -12,7 +12,7 @@ interface IParams {
 const Card = (props: IParams) => {
   return (
     <a href={props.href || 'https://github.com/NathanFirmo'}
-      target='_blank'
+      target='noreferrer'
       rel='next'
       className={styles.styledLink}>
       <div className={styles.container}>
